@@ -452,22 +452,6 @@ workforce-planning-performance-analytics/
 
 ![Attendance, Overtime & Compensation Analytics](https://github.com/Ankar-G/Workforce-Planning-Employee-Performance-Analytics/blob/main/Dashboards%20Screenshot/Screenshot%202026-10-03%20124826.png)
 
----
-
-## 🔧 GitHub Image Path Setup
-
-To make the dashboard screenshots render on GitHub:
-
-1. Create a `Screenshots/` folder in the repository root.
-2. Upload your dashboard images (PNG or JPG) into that folder.
-3. Reference them with **relative paths** in the README:
-
-```markdown
-![Dashboard Name](Screenshots/your-image-name.png)
-```
-
-4. Make sure the filename and capitalization in the README exactly match the uploaded file, since GitHub paths are case-sensitive.
-5. Avoid local computer paths such as `C:\Users\...`, which will not render on GitHub.
 
 ---
 
