@@ -442,15 +442,15 @@ workforce-planning-performance-analytics/
 
 ### Workforce Overview & Planning
 
-![Workforce Overview & Planning](Screenshots/workforce-overview-planning.png)
+![Workforce Overview & Planning](https://github.com/Ankar-G/Workforce-Planning-Employee-Performance-Analytics/blob/main/Dashboards%20Screenshot/Screenshot%202026-10-03%20124756.png)
 
 ### Employees Performance & Productivity
 
-![Employees Performance & Productivity](Screenshots/employee-performance-productivity.png)
+![Employees Performance & Productivity](https://github.com/Ankar-G/Workforce-Planning-Employee-Performance-Analytics/blob/main/Dashboards%20Screenshot/Screenshot%202026-10-03%20124813.png)
 
 ### Attendance, Overtime & Compensation Analytics
 
-![Attendance, Overtime & Compensation Analytics](Screenshots/attendance-overtime-compensation.png)
+![Attendance, Overtime & Compensation Analytics](https://github.com/Ankar-G/Workforce-Planning-Employee-Performance-Analytics/blob/main/Dashboards%20Screenshot/Screenshot%202026-10-03%20124826.png)
 
 ---
 
