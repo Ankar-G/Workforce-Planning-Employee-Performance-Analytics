@@ -473,8 +473,8 @@ To make the dashboard screenshots render on GitHub:
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** `[https://www.linkedin.com/in/ankar-goswami-23a196245/]`
-- 📧 **Email:** `[goswamijit99@gmail.com]`
+- 💼 **LinkedIn:** `https://www.linkedin.com/in/ankar-goswami-23a196245/`
+- 📧 **Email:** `goswamijit99@gmail.com`
 
 ---
 
