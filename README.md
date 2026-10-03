@@ -473,9 +473,8 @@ To make the dashboard screenshots render on GitHub:
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** `[Add your LinkedIn URL]`
-- 📧 **Email:** `[Add your email]`
-- 🌐 **Portfolio:** `[Add your portfolio URL]`
+- 💼 **LinkedIn:** `[https://www.linkedin.com/in/ankar-goswami-23a196245/]`
+- 📧 **Email:** `[goswamijit99@gmail.com]`
 
 ---
 
